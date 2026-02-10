@@ -1,3 +1,3 @@
 # codespace
 
-try to implement all of the 159s24 setup instructions in a codespace
+try to implement all of the 343s26 setup instructions in a codespace

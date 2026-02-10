@@ -3,25 +3,30 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "redhat.java",
-        "vscjava.vscode-java-debug",
-        "vscjava.vscode-java-test",
-        "shengchen.vscode-checkstyle",
+        "ms-vscode.live-server",
         "streetsidesoftware.code-spell-checker",
-        "ryanluker.vscode-coverage-gutters"
+        "MS-vsliveshare.vsliveshare",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "oderwat.indent-rainbow",
+        "Gruntfuggly.todo-tree",
+        "html-validate.vscode-html-validate",
+        "deque-systems.vscode-axe-linter",
+        "firefox-devtools.vscode-firefox-debug"
       ],
-      "openFiles": ["src/demo/HelloWorld.java", "README.md"]
+      "openFiles": ["README.md"]
     },
     "codespaces": {
       "extensions": [
-        "redhat.java",
-        "vscjava.vscode-java-debug",
-        "vscjava.vscode-java-test",
-        "shengchen.vscode-checkstyle",
+        "ms-vscode.live-server",
         "streetsidesoftware.code-spell-checker",
-        "ryanluker.vscode-coverage-gutters"
+        "MS-vsliveshare.vsliveshare",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "oderwat.indent-rainbow",
+        "Gruntfuggly.todo-tree",
+        "html-validate.vscode-html-validate",
+        "deque-systems.vscode-axe-linter"
       ],
-      "openFiles": ["src/demo/HelloWorld.java", "README.md"]
+      "openFiles": ["README.md"]
     }
   }
 }
