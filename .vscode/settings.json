@@ -9,4 +9,7 @@
   "extensions.ignoreRecommendations": true,
   "livePreview.autoRefreshPreview": "On Changes to Saved Files",
   "livePreview.openPreviewTarget": "External Browser",
+  "chat.agent.enabled": false,
+  "chat.disableAIFeatures": true,
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
 }
